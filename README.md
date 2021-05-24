@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mango
+- 👀 I’m interested in javascript.
+- 🌱 I’m currently learning javascript.
+- 其实我是一个中国人。
